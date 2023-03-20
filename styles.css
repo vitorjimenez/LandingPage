@@ -1,0 +1,75 @@
+*{
+    text-align: center;
+    box-sizing: border-box;
+}
+h3 span{
+    color: #FFC700;
+}
+body{
+    padding: 160px;
+    background-position:center ;
+    background-color: #1E1E1E;
+    background-image: url('https://i.ibb.co/614p5kj/background-image.png') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+body {}
+h3{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;  
+    font-style: bold;
+    line-height: 19px;
+    align-items: center;
+    vertical-align: top;
+    color: #FFFFFF;
+
+}
+h1{
+    padding-top: 0%;
+    font-family:'Emilys Candy';
+    font-size: 72px;
+    font-style: regular;
+    line-height: 80px;
+    line-height: 100%;
+    align-items: center;
+    vertical-align: top;
+    color: #FFC700;
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+    font-style: regular;
+    font-size: 20px;
+    line-height:24px;
+    line-height: 100%;
+    align-items: center;
+    vertical-align: top;
+    color: rgba(255, 255, 255, 0.7);
+    padding-bottom: 20px;
+    
+}
+
+
+.horrorgame{
+    padding-top: 90px;
+    padding-bottom: 0px;
+}
+
+a{
+    padding: 12px 32px;
+    font-weight: 700px;
+    font-size:20px;
+    line-height: 24px;
+    text-decoration: none;
+    color: white;
+    opacity: 0.6;
+}
+
+
+a:hover,
+.playbtn{
+    text-decoration: none;
+    color: black;
+    background-color: #FFC700;
+    opacity: 1;
+}
